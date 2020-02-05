@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@fitness.nep:
+  ssh: vagrant:fitness.nep:/var/www/html
