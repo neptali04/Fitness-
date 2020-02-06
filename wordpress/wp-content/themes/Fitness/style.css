@@ -32,6 +32,7 @@ html {
 body {
 	font:300 11px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color:#444;
+	background-color: #fde2d4;
 }
 /* clear */
 .clear:before,
@@ -86,13 +87,18 @@ input:focus {
 }
 /* logo */
 .logo {
+	width:250px;
+	height: 250px;
 
 }
 .logo-img {
+	width: 200px;
+	height: 200px;
 
 }
 /* nav */
-.nav {
+.navbar {
+	background-color: #fde2d4;
 
 }
 /* sidebar */
