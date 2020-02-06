@@ -26,14 +26,8 @@
 	<body <?php body_class(); ?>>
 
 		<!-- wrapper -->
-		<nav class="row">
-			<div class="col-md-12">
-				<ul>
-				<li class="btn ">Hello World</li>
-				</ul>
-			</div>
-		</nav>
-			
+<div class="container-fluid">
+
 
 			<!-- header -->
 			<header class="header clear" role="banner">
@@ -54,4 +48,6 @@
 					<!-- /nav -->
 
 			</header>
+
+</div>
 			<!-- /header -->
