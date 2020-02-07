@@ -59,10 +59,13 @@
 					<!-- /nav -->
 			<!-- header -->
 			<header class=" header clear" role="banner">
-				
-					<!-- logo -->
-
-					<!-- /logo -->
+			<div class="jumbotron jumbotron-fluid">
+  				<div class="container">
+				  <img src="<?php echo get_template_directory_uri(); ?>/img/jumbotron.jpg" alt="Logo" class="img-responsive">
+    				<h1 class="display-4">FITNEX</h1>
+    					<p class="lead">Train Harder. Live Stronger.</p>
+ 				</div>
+			</div>
 
 
 
