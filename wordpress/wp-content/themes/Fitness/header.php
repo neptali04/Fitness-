@@ -58,13 +58,20 @@
 
 					<!-- /nav -->
 			<!-- header -->
-			<header class=" header clear" role="banner">
-			<div class="jumbotron jumbotron-fluid">
-  				<div class="container">
-				  <img src="<?php echo get_template_directory_uri(); ?>/img/jumbotron.jpg" alt="Logo" class="img-responsive">
-    				<h1 class="display-4">FITNEX</h1>
-    					<p class="lead">Train Harder. Live Stronger.</p>
- 				</div>
+			<header class=" header clear " role="banner">
+
+			<div class="carousel slide " data-ride="carousel">
+  				<div class="carousel-inner ">
+    				<div class="carousel-item active">
+					<img src="<?php echo get_template_directory_uri(); ?>/img/jumbotron1.jpg" alt="Grayscale photography of woman standing near high buildings. Photo by Mikita Karasiou on Unsplash." class="d-block w-100">
+   					</div>
+    				<div class="carousel-item">
+					<img src="<?php echo get_template_directory_uri(); ?>/img/jumbotron2.jpg" alt="Grayscale photo of woman exercising on top of large rock. Photo by Wesley Tingey on Unsplash." class="d-block w-100">
+    				</div>
+    				<div class="carousel-item">
+					<img src="<?php echo get_template_directory_uri(); ?>/img/jumbotron3.jpg" alt="Man stretching on seashore. Photo by Artem Beliaikin on Unsplash." class="d-block w-100">
+    				</div>
+  				</div>
 			</div>
 
 

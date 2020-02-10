@@ -32,7 +32,7 @@ html {
 body {
 	font:300 11px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color:#444;
-	background-color: #fde2d4;
+	background-color: #FFF;
 }
 /* clear */
 .clear:before,
@@ -83,30 +83,41 @@ input:focus {
 }
 /* header */
 .header {
-
+	
 }
 /* logo */
 .logo {
-	width:250px;
-	height: 250px;
+	width:300px;
+	height: 3000px;
 
 }
 .logo-img {
-	width: 200px;
-	height: 200px;
+	width: 80%;
+	height: 80%;
 
 }
 /* nav */
 .navbar {
-	background-color: #fde2d4;
-
+	background-color: #FFF;
+	font-size: 25px;
 }
+.carousel-inner{
+	width: 800px;
+	height: 800px;
+	margin: auto;
+	
+}
+
+
 /* sidebar */
 .sidebar {
 
 }
 /* footer */
 .footer {
+
+}
+.social{
 
 }
 

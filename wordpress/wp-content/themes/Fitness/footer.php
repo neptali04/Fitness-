@@ -1,5 +1,15 @@
 			<!-- footer -->
 			<footer class="footer" role="contentinfo">
+				<div class="row margin0-2">
+					<div class="col-md-12">
+							<div class="social">
+								<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+									<a href="https://www.instagram.com/" class="fa fa-instagram"></a>
+			   						<a href="https://linkedin.com/" class="fa fa-linkedin"></a>   
+		   					</div>
+					</div>
+				</div>
+
 
 				<!-- copyright -->
 				<p class="copyright">
