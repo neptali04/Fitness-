@@ -13,3 +13,4 @@
 
 </aside>
 <!-- /sidebar -->
+<?php echo "Hello World. How are ya?";?>

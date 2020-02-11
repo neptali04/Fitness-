@@ -9,7 +9,7 @@
 			<?php get_template_part('loop'); ?>
 			<div class="row justify-content-center">
 			<div class="col-sm-2 col-md-2">
-			<div class="card" style="width: 18rem;">
+			<div class="card" style="width: 30rem;">
 				<img src="<?php echo get_template_directory_uri(); ?>/img/card1.jpg" alt="Pitcher filled with berries. Photo by Jagoda Kondratiuk on Unsplash." class="card-img-top img-responsive">
   					<div class="card-body">
     					<h5 class="card-title">The Basics</h5>
@@ -19,7 +19,7 @@
 			</div>
 			</div>
 			<div class="col-sm-2 col-md-2">	
-			<div class="card" style="width: 18rem;">
+			<div class="card" style="width: 30rem;">
 				<img src="<?php echo get_template_directory_uri(); ?>/img/card1.jpg" alt="pitcher filled with berries" class="card-img-top img-responsive">
   					<div class="card-body">
     					<h5 class="card-title">The Basics</h5>
@@ -29,7 +29,7 @@
 			</div>
 			</div>
 			<div class="col-sm-2 col-md-2">	
-			<div class="card" style="width: 18rem;">
+			<div class="card" style="width: 30rem;">
 				<img src="<?php echo get_template_directory_uri(); ?>/img/card1.jpg" alt="pitcher filled with berries" class="card-img-top img-responsive">
   					<div class="card-body">
     					<h5 class="card-title">The Basics</h5>
@@ -39,7 +39,7 @@
 			</div>
 			</div>
 			<div class="col-sm-2 col-md-2">	
-			<div class="card" style="width: 18rem;">
+			<div class="card" style="width: 30rem;">
 				<img src="<?php echo get_template_directory_uri(); ?>/img/card1.jpg" alt="pitcher filled with berries" class="card-img-top img-responsive">
   					<div class="card-body">
     					<h5 class="card-title">The Basics</h5>
